@@ -6,7 +6,7 @@ The course covers various advanced Java topics, and each week's exercise focuses
 
 ## About the course
 
-You can find everything about the course [here](https://github.com/fmi/java-course/tree/master). 
+You can find everything about the course [here](https://github.com/fmi/java-course/tree/mjt-2023-2024). 
 
 ## Note
 
